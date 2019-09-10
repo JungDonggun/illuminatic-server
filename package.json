@@ -1,0 +1,14 @@
+{
+  "name": "Illuminatic-graphql",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "dependencies": {
+    "reflect-metadata": "^0.1.13",
+    "type-graphql": "^0.17.5"
+  },
+  "devDependencies": {
+    "@types/node": "^12.7.2",
+    "typescript": "^3.5.3"
+  }
+}
